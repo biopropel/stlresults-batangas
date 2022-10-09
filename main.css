@@ -1,0 +1,18 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.footerText {
+	font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 0.7em;
+    text-decoration:none;
+    float: left;
+}
